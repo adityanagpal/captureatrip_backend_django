@@ -1,0 +1,2 @@
+# Private repo packages
+email-management-appcode==0.0.1

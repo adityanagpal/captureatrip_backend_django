@@ -1,0 +1,54 @@
+[
+    {
+        "model": "common_app.slidermaster",
+        "pk": 1,
+        "fields": {
+            "created_date": "2022-05-03T11:03:39.427Z",
+            "last_updated_date": "2022-05-03T11:03:39.427Z",
+            "is_active": true,
+            "is_deleted": false,
+            "position": 1,
+            "slider_title": "Upcoming Trips",
+            "slider_sub_title": null
+        }
+    },
+    {
+        "model": "common_app.slidermaster",
+        "pk": 2,
+        "fields": {
+            "created_date": "2022-05-03T11:03:53.790Z",
+            "last_updated_date": "2022-05-03T12:00:29.973Z",
+            "is_active": true,
+            "is_deleted": false,
+            "position": 2,
+            "slider_title": "Weekend Trips",
+            "slider_sub_title": "2 Nights & Below"
+        }
+    },
+    {
+        "model": "common_app.slidermaster",
+        "pk": 3,
+        "fields": {
+            "created_date": "2022-05-03T11:04:04.419Z",
+            "last_updated_date": "2022-05-03T12:00:42.092Z",
+            "is_active": true,
+            "is_deleted": false,
+            "position": 3,
+            "slider_title": "Backpack Trips",
+            "slider_sub_title": "3 Nights & Above"
+        }
+    },
+    {
+        "model": "common_app.slidermaster",
+        "pk": 4,
+        "fields": {
+            "created_date": "2022-05-03T11:04:12.332Z",
+            "last_updated_date": "2022-05-03T12:00:52.337Z",
+            "is_active": true,
+            "is_deleted": false,
+            "position": 4,
+            "slider_title": "Ladakh",
+            "slider_sub_title": "5 Nights & Above"
+        }
+    }
+]
